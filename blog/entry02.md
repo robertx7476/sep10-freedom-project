@@ -2,7 +2,7 @@
 ##### 11/27/23
 
 ### Context
-In my first blog I wrote about why I chose the topic ***environment*** and I started to define the problem. In this blog I will be researching and possibly starting to brainstorm possible solutions to help combat *major environmental issues* like ***climate change*** and ***the loss of biodiversity***.
+In my first blog I wrote about why I chose the topic ***environment*** and I started to define the problem. In this blog I will be researching and possibly start to brainstorm solutions that can help combat *major environmental issues* like ***climate change*** and ***the loss of biodiversity***. 
 
 ### EDP (Engineering Design Process)
 How I started was I went on a new tab and searched ***technologies and gadgets that help the environment***. Instantly, the first website I found showed me [14 technolgies people came up with to help the environment.](https://ecofriend.org/14-ways-technology-can-help-the-environment/#:~:text=Existing%20technology%20such%20as%20GPS,to%20prevent%20human%2Danimal%20conflicts.) Reading about the technologies that we have already created impressed me and I want to spread awareness to these technolgies so people can use them. After that I searched ***apps that help the environment*** and I found [a website](https://www.cnet.com/tech/services-and-software/use-cnet-shopping-to-seek-out-the-best-deals/) that talked about Ecosia. 
@@ -16,11 +16,12 @@ Since Carbon dioxide is contributing to climate change and global warming, scien
 ### Skills
 
 #### Attention to detail
-Again like in the first blog Attention to detail is important. When I reread my paragraphs I caught grammar mistakes like writing biodiversity ***biodiverstiy*** and needs to ***neeeds***. And after I finished writing everything I created a google doc and copy and pasted this whole blog onto it to check for grammar mistakes. I was thinking that there were none so I was suprised when I saw the red line and saw that I spelled technologies *techonolgies*, so I wouldn't have caught this grammar mistake if I didn't check with docs. when I clicked preview I noticed that I wrote *[a website] and (the link to the website)* and it didn't work. Then I saw that it was because I accidentally flipped the brackets and parentheses, so I flipped them and it fixed it.
+Again like in the first blog Attention to detail is important. When I reread my paragraphs I caught grammar mistakes like writing biodiversity ***biodiverstiy*** and needs to ***neeeds***. And after I finished writing everything I created a google doc and copy and pasted this whole blog onto it to check for grammar mistakes. I was thinking that there were none so I was suprised when I saw the red line and saw that I spelled technologies *techonolgies*, so I wouldn't have caught this grammar mistake if I didn't check with docs. 
 #### Debugging
+I did some debugging in this blog. I looked at what was wrong, and thought about what it should look like. For example my code said (website)[da link to the website], so I tinkered and thought about how to fix it so I flipped them and it fixed it. [website](totally-da-link)
 
-Since writing blog 1
-
+### During the process of writing this blog.
+I wrote a ton of this blog and did a grammar check on a doc cause I remembered Mr.Mueller talking about trying that so I did. Then I continued writing the blog. When I was almost finished I was moving my mouse and accidentally clicked ***entry03.md*** and I was shocked then went back to entry 2 and I had a literal heart attack. Then I remembered that I put this entry in the doc so I went to the doc and most of the blog was there.
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)

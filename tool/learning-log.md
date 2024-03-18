@@ -1,6 +1,15 @@
 # Tool Learning Log
 Tool: **Aframe**
-
+3/17/24:
+* Today I learned more about my tool. On their website, I *read and tinkered* the code and text on how to build a basic scene.
+    *  First I went along the document, reading and putting the code in [Jsbin](https://jsbin.com/becobeqico/edit?html,output).
+    * I added the entites, changed the background color, changed the floor texture, and made a floor.
+        * At one point, the background color was gradient with green and white.
+    * And I learned how to start to animate the primitives.
+        * In [Jsbin](https://aframe.io/docs/1.5.0/guides/building-a-basic-scene.html), I tinkered on the positions of the primitives and where it gets to move.
+        * I made the box move in the x, y, and z planes. Which means I can make them go up and down, left or right, and backwards and forwards.
+        * And I can change the distance of the movement and how long it takes to get there and go back.
+            * dur:1000 is 1 second.
 3/10/24:
 * I learned more about A-Frame by reading from their document.
     * I read the document about [3d models](https://aframe.io/docs/1.5.0/introduction/models.html) and [entities](https://aframe.io/docs/1.5.0/core/entity.html#example).

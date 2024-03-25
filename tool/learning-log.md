@@ -1,5 +1,25 @@
 # Tool Learning Log
 Tool: **Aframe**
+3/18/24-3/24/24:
+* Started learning in Class
+    * Just read the animation doc in class.
+    * It connects with the basic scene I learned.
+    * Testing the code out later in Jsbin.
+* Later
+    * Rereading the document on animation and following along on Jsbin.
+    * Same [Jsbin](https://jsbin.com/becobeqico/edit?html,output) with the basic scene that I was tinkering with.
+        * I first started with the first few lines of code on Jsbin.
+        * As I was writing this down, I kept rechecking the code and sentences and realized, that some of code from the basic scene doc has animation.
+            * So I deleted the previous sentence cause that wouldn't have made sense.
+            * Also organized and spaced out the code better.
+        * I somewhat understand material opacity, which I think was suppose to make the primitive more or less transparent, but then I read the thing and it said about properties and animate an arbitrary object.
+            * No idea what arbitrary means.
+                * Searched it up, it is something about chance.
+        * Then there are other properties like to, dir, dur, delay, from, property, loop, and more.
+        * Then after that it shows me that I can put multiple animations on an entity, I just need to put two underscores "__" in the naming.
+        * Easing is next, and I think I remember last time when we did something for a project and there were five groups, actually four since no one did geometry but there was easing in the animation groups slides.
+        * Also I put the animation where when the mouse hovers over the entity, it changes color from red to blue.
+
 3/17/24:
 * Today I learned more about my tool. On their website, I *read and tinkered* the code and text on how to build a basic scene.
     *  First I went along the document, reading and putting the code in [Jsbin](https://jsbin.com/becobeqico/edit?html,output).

@@ -1,5 +1,20 @@
 # Tool Learning Log
 Tool: **Aframe**
+3/25/24-4/1/24:
+* In class:
+    * Just read some more docs
+        * Looked and put the lighting code in the [Jsbin](https://jsbin.com/becobeqico/edit?html,output).
+        * Now the entities look shiny because of the light reflecting off of the shapes.
+* At home:
+    * Also I read that I could put some text in the scene.
+        * And that I can change the size, position, font, and more of it.
+    * And I put '<a-scene stats></a-scene>' in Jsbin, it actally put the statistics.
+        * It tells you how much frames to takes, how long it takes for it to load, how many entities are in the scene, and more.
+        * I deleted it from the code because it was blocking a ton of the screen.
+    * Put some shadows in the code, I didn't see a difference.
+    * I somewhat know what '<a-tetrahedron color="#FF926B" radius="5"></a-tetrahedron>' does, because there is a chart on the bottom showing how to change it's properties.
+        * like color, height, scale, and metalness.
+
 3/18/24-3/24/24:
 * Started learning in Class
     * Just read the animation doc in class.

@@ -1,5 +1,19 @@
 # Tool Learning Log
 Tool: **Aframe**
+4/2/24-4/7/24:
+* In Day 1, I looked at what I read/ seeing which documents in the [A-Frame website](https://aframe.io/docs/1.5.0/introduction/).
+* In Day 2-3:
+    * Learning new components and primitives from A-Frame, such as render, pool, and cubemap.
+        * it says that pool is reusing entities that are already there without creating or destorying more.
+        * I'm not sure want cubemap is because when I put it in the code nothing happens, but it probably makes a cube and it will probably show a galaxy.
+            * because the link says milkyway.jpg for all of them.
+    * Also I am kind of suprised seeing the scene in the repo.
+        * Because in Jsbin, the screen is small, and this covers basically the whole screen.
+    * For the components, I think I know the definition for about half of them and for the primitives about half as well.
+        * the primitives have some shapes but also some other things.
+            * Like there is something called a video-sphere.
+                * And it says that it plays 360 degree videos in the background of the scene.
+
 3/25/24-4/1/24:
 * In class:
     * Just read some more docs

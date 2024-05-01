@@ -1,8 +1,8 @@
 .h2 {
 
 }
-.li {
-
+.background{
+    background-color:#ABFEED;
 }
 .img-size{
     width: 450px;
@@ -11,6 +11,7 @@
 }
 .row{
     padding-bottom:20px;
+    padding-top:20px;
 }
 .center{
     text-align:center;

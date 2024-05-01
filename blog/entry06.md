@@ -1,8 +1,13 @@
 # Entry 6
-##### X/X/XX
+##### 5/1/24
 
-Text
+## Content
+
+## Sources
+
+## EDP
+
+## Skills
 
 [Previous](entry05.md) | [Next](entry07.md)
-
 [Home](../README.md)

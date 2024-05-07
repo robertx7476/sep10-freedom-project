@@ -1,10 +1,8 @@
 # Entry 6
 ##### 5/1/24
 
-for sources put multiple links within sentences
-
 ## Content
-In my [plan.md](https://github.com/robertx7476/sep10-freedom-project/blob/main/prep/plan.md), I made my mvp, the timeline, some colors that I was using, and putting in the wireframes.
+In my [plan.md](https://github.com/robertx7476/sep10-freedom-project/blob/main/prep/plan.md), I made my MVP, the timeline, a few colors that I might be using, and putting in the wireframes and linking them.
 My plan:
 
 ```
@@ -32,13 +30,16 @@ The hardest thing about making my MVP was thinking what to put in it. The easies
 Then for the colors, I mostly wanted blue on my website so I put two different shades of blue. And I used the lighter blue on my website. I didn't put more colors because I wanted most of my website to be white.
 
 For the timeline, it was a little trickier on deciding when to do and what to do. So in the end, I decided to make the timeline really simple for myself. Giving myself a week to put my content on the website and start coding. Then the next week finishing coding and adding whatever components I want, and then the last few days I will try to make sure everything is working properly.
+
 ## EDP
 So for my Freedom Project, this is the MVP which stands for Minimum Viable Product. The stage I am in is testing out the product and seeing what I can improve. And since I am only at the MVP there are many things I can add to my website to make it better.
+
 ## Skills
 <b>Logical reasoning/Embracing failure</b>
 Since it's been a while, when I was doing this blog entry. I forgot how link words/sentences. So I keep trying and failing.
+
 Example:
-1.
+
 ```
 ()[] <-- Linking it backwards
 ```
@@ -47,5 +48,6 @@ Then doing it correctly but thinking I did it wrong. Then I checked [previous bl
 
 <b>Growth Mindset</b>
 I continued to practice the growth mindset by perservering and doing the blog and not giving up halfway.
+
 [Previous](entry05.md) | [Next](entry07.md)
 [Home](../README.md)

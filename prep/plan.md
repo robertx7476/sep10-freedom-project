@@ -22,4 +22,9 @@ I will make sure everything is good and everything works properly.
 My minimum viable product would be a basic website formatted the way based on the wireframe I created and having the content on the Website.
 #### Beyond MVP
 
-* Task
+List:
+- [] I am going to make my images interactive because I made the text interactive but forgot about the images.
+- [] Make the navbar permanently on the page.
+- [] Spacing the top of the freedom project better, the context and part a/existing is a little cramped.
+- [] Then maybe adding another color or another shade of blue because everyone said that I needed another color.
+- [] Changing the color of the context box so people can see it better.

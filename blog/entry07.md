@@ -1,7 +1,9 @@
 # Entry 7
-##### X/X/XX
+##### 5/29/24
 
-Text
+Should've done A-Frame cause that was the only problem.
+People keep asking where was my A-Frame.
+OVerall I did good at presenting.
 
 [Previous](entry06.md) 
 

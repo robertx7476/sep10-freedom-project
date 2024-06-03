@@ -18,12 +18,6 @@ There are both positive and negative impacts on society. For social, some existi
 
 [Presentation](https://docs.google.com/presentation/d/1YOVOBsreBpK43SSlCpRxKOrqXLfCPasZZzG9V0K2yrw/edit#slide=id.g2dd89ad4a81_0_0)
 
-## Implications
-##### PROS
-*
-##### CONS
-*
-
 ## Blogs
 Below you will find my blogs about how I made my project.
 
